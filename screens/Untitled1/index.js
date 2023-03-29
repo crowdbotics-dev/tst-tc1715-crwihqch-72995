@@ -9,7 +9,7 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.bolONlty}></View></ScrollView>
+    }}><View style={styles.bolONlty}></View><View style={styles.OdCyqGjR}></View></ScrollView>
     </SafeAreaView>;
 };
 
@@ -38,6 +38,13 @@ const styles = StyleSheet.create({
   bolONlty: {
     height: 60,
     width: 50,
+    backgroundColor: "#E4E4E4",
+    borderRadius: 0,
+    color: "#777777"
+  },
+  OdCyqGjR: {
+    height: 60,
+    width: 140,
     backgroundColor: "#E4E4E4",
     borderRadius: 0,
     color: "#777777"
