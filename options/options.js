@@ -6,6 +6,10 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    copy: "Routes available!"
+    "copy": "Routes available!"
+  },
+  "@modules/camera": {
+    "buttonText": "+ Take Photoyu",
+    "styles": styles
   }
 };
